@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shizongli94/calm-constants/issues"
   },
-  "homepage": "https://github.com/shizongli94/calm-constants#readme"
+  "homepage": "https://github.com/shizongli94/calm-constants#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
 }
