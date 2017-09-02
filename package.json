@@ -1,0 +1,19 @@
+{
+  "name": "calm-constants",
+  "version": "1.0.0",
+  "description": "Allow defining project-wide constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shizongli94/calm-constants.git"
+  },
+  "author": "Zongli Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shizongli94/calm-constants/issues"
+  },
+  "homepage": "https://github.com/shizongli94/calm-constants#readme"
+}
